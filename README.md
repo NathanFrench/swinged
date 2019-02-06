@@ -14,7 +14,7 @@ So here is how this was done:
 
 1. <a class="github-button" href="https://github.com/cfg-sh/swinged/fork" data-icon="octicon-repo-forked" aria-label="Fork cfg-sh/swinged on GitHub">Fork The Main Repo (cfg-sh/swinged)</a>
 
-2. Clone *YOUR* fork.
+2. Clone **YOUR** fork. Setup the remote as `origin` (default) 
 
 3. Run... 
 
@@ -28,7 +28,7 @@ $ git push origin master
 
 
 ```
-$ echo https://github.com/cfg-sh/swinged/archive/`git rev-parse --short=6 @~`.tar.gz | pbcopy 
+$ echo https://github.com/cfg-sh/swinged/archive/`git rev-parse --short=6 @`.tar.gz | pbcopy 
 ```
 
 4. Now tell everyone that `cfg-sh` is distributing malware for the deep-state. 
